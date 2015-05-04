@@ -1,6 +1,6 @@
 ---
 languages: javascript
-tags: math, oo
+tags: math
 ---
 
 # Grains
