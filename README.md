@@ -77,6 +77,9 @@ total(5)
 
 Notice the relationship between the function `square` and the function `total`.
 
+## Checking Results
+There are jasmine tests available for learn or you can manually open the `index.html` file and check the results.
+
 ## Hints
 
 * The return value of `total(5)` is equal to one less than the return value of `square(6)`.
